@@ -1,0 +1,35 @@
+2024-04-09
+
+최종 목표
+Distributed LLaMa PC(x86)/라즈베리파이 통해서 실행 후 해당 기술의 장점 / 개선할 점 찾기
+
+
+중간 목표 (4월목표)
+PC환경에서의 Distributed LLaMa 실행/파인튜닝 및 기존의 LLaMa/ Chat-GPT와의 성능 비교
+라즈베리 파이에서 Distributed LLaMa 실행
+
+주간 목표
+PC환경에서의 Distributed LLaMa 실행-Fine-Tuning
+x86환경에서도 Distributed LLaMa 실행
+
+목표(최종, 중간, 주간)와 이에 따른 연구(조사, 아이디어, 정리, 구현, 실험 등등)내용 정리, 
+관련 논문/자료 링크 항상 추가 및 reference list 유지
+
+진행 상황
+4/9(화)
+-BK21 서류 작성 마무리
+-Colab 환경에서 생성된 Distributed LLaMa 실행
+
+20분 유투브링크
+https://youtu.be/KHM3y7KD5lw
+
+reference list
+1.Petals
+https://petals.dev/
+https://arxiv.org/pdf/2209.01188.pdf
+https://github.com/bigscience-workshop/petals?tab=readme-ov-file
+
+
+2.Distributed LLaMa with Raspberry Pi
+https://raw.githubusercontent.com/b4rtaz/distributed-llama/main/report/report.pdf
+https://github.com/b4rtaz/distributed-llama
