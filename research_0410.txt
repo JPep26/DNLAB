@@ -18,17 +18,21 @@ x86환경에서도 Distributed LLaMa 실행
 진행 상황
 4/9(화)
 -BK21 서류 작성 마무리
--Colab 환경에서 생성된 Distributed LLaMa 실행
+-Colab 환경에서 생성된 Petals 실행
+
+4/11(목)
+-BK 서류 작업 수정사항 수정
+
 
 20분 유투브링크
 https://youtu.be/KHM3y7KD5lw
+https://youtu.be/ECkaME_NJaA
 
 reference list
 1.Petals
 https://petals.dev/
 https://arxiv.org/pdf/2209.01188.pdf
 https://github.com/bigscience-workshop/petals?tab=readme-ov-file
-
 
 2.Distributed LLaMa with Raspberry Pi
 https://raw.githubusercontent.com/b4rtaz/distributed-llama/main/report/report.pdf
