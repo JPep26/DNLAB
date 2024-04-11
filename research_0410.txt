@@ -12,6 +12,11 @@ PC환경에서의 Distributed LLaMa 실행/파인튜닝 및 기존의 LLaMa/ Cha
 PC환경에서의 Distributed LLaMa 실행-Fine-Tuning
 x86환경에서도 Distributed LLaMa 실행
 
+다음주 목표
+LLaMa와 Petals 간의 성능 지표 차이 분석
+Fine-Tuning후의 성능 지표 차이 분석
+
+
 목표(최종, 중간, 주간)와 이에 따른 연구(조사, 아이디어, 정리, 구현, 실험 등등)내용 정리, 
 관련 논문/자료 링크 항상 추가 및 reference list 유지
 
