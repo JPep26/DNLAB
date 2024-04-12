@@ -8,14 +8,14 @@ Distributed LLaMa PC(x86)/라즈베리파이 통해서 실행 후 해당 기술�
 PC환경에서의 Distributed LLaMa 실행/파인튜닝 및 기존의 LLaMa/ Chat-GPT와의 성능 비교
 라즈베리 파이에서 Distributed LLaMa 실행
 
-주간 목표
+주간 목표 (4/15-4/19)
 PC환경에서의 Distributed LLaMa 실행-Fine-Tuning
-x86환경에서도 Distributed LLaMa 실행
-
-다음주 목표
-LLaMa와 Petals 간의 성능 지표 차이 분석
+x86환경에서도 Distributed LLaMa 실행및 LLaMa와 Petals 간의 성능 지표 차이 분석
 Fine-Tuning후의 성능 지표 차이 분석
 
+다음 주 목표(4/22-4/26)
+PC에서의 Petals와 LLaMa2, Chat-GPT와의 차이 분석후 시각화
+Petals 만이 아닌 Distributed LLaMa에 대해서 동일한 과정 진행 및 Raspberry Pi에서 Distributed LLaMa 구동과정 진행
 
 목표(최종, 중간, 주간)와 이에 따른 연구(조사, 아이디어, 정리, 구현, 실험 등등)내용 정리, 
 관련 논문/자료 링크 항상 추가 및 reference list 유지
@@ -27,6 +27,10 @@ Fine-Tuning후의 성능 지표 차이 분석
 
 4/11(목)
 -BK 서류 작업 수정사항 수정
+
+4/12(금)
+- CUDA 재설치 ( 월요일날 CUDA 재설치를 하였으나, conda 가상환경내에서 설치하여 제대로 적용되지 않아 다시 재설치)
+- Windows 환경에서 실행하기 위하여 WSL 설치 및 Petals 설치
 
 
 20분 유투브링크
