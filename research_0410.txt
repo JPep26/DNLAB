@@ -3,6 +3,13 @@
 최종 목표
 Distributed LLaMa PC(x86)/라즈베리파이 통해서 실행 후 해당 기술의 장점 / 개선할 점 찾기
 
+현재 생각하는 장점 및 단점
+장점
+1) 유지해주는 사용자가 있다면, 고성능 컴퓨터가 아니더라도 사용하기 용이
+
+단점
+1) 분산 시스템인 만큼, 유지를 해주는 사용자들이 없다면 사용에 불편을 겪기 쉬움. 
+
 
 중간 목표 (4월목표)
 PC환경에서의 Distributed LLaMa 실행/파인튜닝 및 기존의 LLaMa/ Chat-GPT와의 성능 비교
@@ -17,9 +24,6 @@ Fine-Tuning후의 성능 지표 차이 분석
 PC에서의 Petals와 LLaMa2, Chat-GPT와의 차이 분석후 시각화
 Petals 만이 아닌 Distributed LLaMa에 대해서 동일한 과정 진행 및 Raspberry Pi에서 Distributed LLaMa 구동과정 진행
 
-목표(최종, 중간, 주간)와 이에 따른 연구(조사, 아이디어, 정리, 구현, 실험 등등)내용 정리, 
-관련 논문/자료 링크 항상 추가 및 reference list 유지
-
 진행 상황
 4/9(화)
 -BK21 서류 작성 마무리
@@ -32,10 +36,9 @@ Petals 만이 아닌 Distributed LLaMa에 대해서 동일한 과정 진행 및 
 - CUDA 재설치 ( 월요일날 CUDA 재설치를 하였으나, conda 가상환경내에서 설치하여 제대로 적용되지 않아 다시 재설치)
 - Windows 환경에서 실행하기 위하여 WSL 설치 및 Petals 설치
 
-
-20분 유투브링크
-https://youtu.be/KHM3y7KD5lw
-https://youtu.be/ECkaME_NJaA
+4/15(월)
+- Fine-Tuning을 위한 코드 작성 및 기존 코드 수정
+- Fine-Tuning을 위한 Dataset 선택 (일단 기존의 Dataset 사용할 예정)
 
 reference list
 1.Petals
@@ -46,3 +49,6 @@ https://github.com/bigscience-workshop/petals?tab=readme-ov-file
 2.Distributed LLaMa with Raspberry Pi
 https://raw.githubusercontent.com/b4rtaz/distributed-llama/main/report/report.pdf
 https://github.com/b4rtaz/distributed-llama
+
+목표(최종, 중간, 주간)와 이에 따른 연구(조사, 아이디어, 정리, 구현, 실험 등등)내용 정리, 
+관련 논문/자료 링크 항상 추가 및 reference list 유지
