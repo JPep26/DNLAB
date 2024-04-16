@@ -40,6 +40,224 @@ Petals 만이 아닌 Distributed LLaMa에 대해서 동일한 과정 진행 및 
 - Fine-Tuning을 위한 코드 작성 및 기존 코드 수정
 - Fine-Tuning을 위한 Dataset 선택 (일단 기존의 Dataset 사용할 예정)
 
+4/16(화)
+LLaMa-7B사용
+질문1: Please recommend developing tool for developing web.
+소요시간: 1분 57초
+답변: There are many great tools available for developing web applications. Here are some popular ones:
+
+
+1. Visual Studio Code: This is a free, open-source code editor developed by Microsoft. It supports a wide range of programming languages and has a large collection of extensions available to help with web development.
+2. Brackets: This is an open-source code editor specifically designed for web designers and front-end developers. It includes features like live preview, preprocessor support, and a built-in text editor.
+3. Sublime Text: This is a popular, cross-platform code editor that is known for its speed and ease of use. It has a large collection of plugins and extensions available to help with web development.
+4. Atom: This is another open-source code editor that is highly customizable and includes a wide range of features for web development, including a built-in package manager and a rich set of plugins.
+5. Dreamweaver: This is a professional web development environment that includes a code editor, a visual design surface, and a variety of tools for building and deploying web applications.
+6. Adobe XD: This is a user experience design tool that is specifically designed for creating and prototyping web applications. It includes a visual design surface, a code editor, and a variety of features for testing and deploying web applications.
+7. Sketch: This is a digital design tool that is specifically designed for creating wireframes, prototypes, and high-fidelity designs for web applications. It includes a visual design surface and a variety of features for creating and sharing designs.
+8. Figma: This is a cloud-based design tool that allows teams to collaborate on creating and prototyping web applications. It includes a visual design surface, a code editor, and a variety of features for testing and deploying web applications.
+9. Webpack: This is a popular build tool for web applications. It includes features like module bundling, code splitting, and optimization.
+10. Gulp: This is a build tool that automates tasks like minification, caching, and deployment. It is particularly useful for automating repetitive tasks and streamlining the development process.
+11. Grunt: This is another build tool that automates tasks like minification, caching, and deployment. It is similar to Gulp and includes a wide range of plugins and extensions available to help with web development.
+12. Node.js: This is a JavaScript runtime that allows developers to create server-side applications and APIs. It includes a variety of libraries and frameworks, such as Express.js and Koa, that make it easy to build web applications.
+13. React: This is a popular JavaScript library for building user interfaces. It includes features like component-based architecture, virtual DOM, and a large ecosystem of libraries and tools.
+14. Angular: This is a JavaScript framework for building single-page applications. It includes features like dependency injection, unit testing, and a large ecosystem of libraries and tools.
+15. Vue.js: This is a progressive and flexible JavaScript framework for building web applications. It includes features like component-based architecture, virtual DOM, and a large ecosystem of libraries and tools.
+
+
+These are just a few examples of the many tools available for developing web applications. The best tool for you will depend on your specific needs and preferences.
+
+
+
+질문2: What is the capital city of Canada?
+소요시간: 13초
+답변:The capital city of Canada is Ottawa. Located in the province of Ontario, Ottawa is situated on the Ottawa River and is home to many national landmarks, including Parliament Hill and the Rideau Canal (a UNESCO World Heritage Site). The city has a population of approximately 883,000 people.
+
+질문3: If ice melts into water, does its mass increase, decrease, or stay the same?
+소요시간: 25초
+답변:When ice melts into water, its mass stays the same. The mass of the ice and the mass of the water are the same, even though the physical state of the substance has changed from solid to liquid.
+
+
+This is because the molecules of ice and water have the same number of atoms and the same mass per molecule. When ice melts, the molecules of water are simply rearranged from a crystalline structure to a liquid structure, which results in no net gain or loss of mass.
+
+
+So, to answer your question, the mass of the ice does not increase, decrease, or stay the same when it melts into water. It stays the same.
+
+
+
+질문4: In the sentence 'She set the table', what does 'set' refer to?
+소요시간: 26초
+답변:In the sentence "She set the table," the verb "set" refers to the action of arranging or placing objects on a table.
+
+
+In this sentence, "set" is a transitive verb, which means that it takes an object directly after it. The object of the verb "set" is "table." So, the sentence can be interpreted as "She arranged the objects on the table."
+
+
+It's worth noting that the verb "set" can have different meanings depending on the context. In this case, it means to place or arrange something on a surface, such as a table. However, "set" can also mean to establish or fix something in a particular position or state, such as "She set the clock on the wall."
+
+
+
+질문5: How many bones are there in the human body?
+소요시간: 1분 40초
+답변:There are 206 bones in the adult human body. Here is a list of the 206 bones in the human body:
+
+
+1. Cranium (8 bones)
+	* Frontal bone
+	* Parietal bone
+	* Occipital bone
+	* Temporal bone
+	* Sphenoid bone
+	* Ethmoid bone
+	* Nasal bone
+	* Maxilla bone
+2. Face (14 bones)
+	* Mandible (jawbone)
+	* Maxilla bone
+	* Zygomatic bone
+	* Nasal bone
+	* Lacrimal bone
+	* Palatine bone
+	* Inferior nasal conchae
+	* Turbinate bones
+3. Thoracic cage (28 bones)
+	* Sternum (3 bones)
+	* Ribs (24 bones)
+	* Thoracic vertebrae (12 bones)
+...
+	* Sacrum (5 fused bones)
+	* Coccyx (4 fused bones)
+
+
+It's worth noting that the number of bones in the human body can vary slightly from person to person, as some individuals may have extra or missing bones due to various genetic or developmental conditions. However, the 206 bones listed above are the typical number found in an average adult human body.
+
+
+
+
+
+
+
+
+
+질문6: Tell me more about the network.
+소요시간: 1분 44초
+답변:Certainly! The network is a critical component of any organization's IT infrastructure, and it plays a vital role in enabling communication, collaboration, and data exchange between different devices and systems. Here are some key aspects of a network:
+
+
+1. Network Topology: The network topology refers to the physical and logical structure of the network, including the devices, connections, and communication protocols used to transmit data. Common network topologies include bus, star, ring, and mesh.
+2. Network Protocols: Network protocols are the set of rules and standards that govern how data is transmitted over the network. Common network protocols include TCP/IP, Ethernet, and Wi-Fi.
+3. Network Devices: Network devices are the hardware components that make up the network, including switches, routers, hubs, and network interface cards (NICs). These devices facilitate data transmission and reception, and they can also provide security features such as firewalls and intrusion detection systems.
+4. Network Security: Network security is the practice of protecting the network from unauthorized access, use, disclosure, disruption, modification, or destruction. This can involve implementing security measures such as encryption, access control, and intrusion detection systems.
+5. Network Management: Network management involves monitoring, maintaining, and troubleshooting the network to ensure that it is functioning properly. This can involve tasks such as configuring network devices, managing network traffic, and troubleshooting network problems.
+6. Network Architecture: Network architecture refers to the overall design and structure of the network, including the hardware, software, and protocols used to connect devices and enable communication.
+7. Network Performance: Network performance refers to the speed, reliability, and efficiency of the network in transmitting data. Factors that can affect network performance include the quality of network devices, the amount of network traffic, and the network architecture.
+8. Network Virtualization: Network virtualization is the process of creating a virtual network infrastructure that allows multiple virtual networks to run on top of a single physical network. This can help improve network efficiency and reduce costs.
+9. Network Function Virtualization: Network function virtualization (NFV) is the process of virtualizing network functions such as firewalls, routers, and switches, which can help improve network agility and reduce costs.
+10. Software-Defined Networking: Software-defined networking (SDN) is a network architecture that separates the control plane from the data plane, allowing for more flexible and programmatic control of the network.
+
+
+These are just a few of the key aspects of a network. Understanding these concepts can help you better appreciate the complexities of network design and management, and how they can be used to improve network performance and security.
+
+
+
+
+
+LLaMa-13B 사용
+질문1: Please recommend developing tool for developing web.
+소요시간: 7분
+답변: 1. Brackets: Brackets is a free, open-source code editor that is specifically designed for web development. It features a live preview mode, pre-processor support, and a built-in task runner.
+2. Atom: Atom is another popular code editor that is highly customizable and supports a wide range of programming languages. It also has a built-in package manager and a live preview mode.
+3. Visual Studio Code: Visual Studio Code (VS Code) is a lightweight, open-source code editor that is designed for web development. It features a live preview mode, debugging tools, and a wide range of extensions.
+4. Sublime Text: Sublime Text is a popular, cross-platform code editor that is known for its speed and ease of use. It supports a wide range of programming languages and has a large community of developers who have created a wide range of plugins and extensions.
+5. Chrome Dev Editor: The Chrome Dev Editor is a web-based code editor that is built into the Google Chrome browser. It allows you to edit HTML, CSS, and JavaScript directly in the browser, and it features a live preview mode and debugging tools.
+6. WebStorm: WebStorm is a comprehensive integrated development environment (IDE) that is specifically designed for web development. It features a live preview mode, debugging tools, and a wide range of extensions.
+7. Dreamweaver: Dreamweaver is a professional-level IDE that is designed for web development. It features a live preview mode, debugging tools, and a wide range of extensions.
+8. Adobe Edge Inspect: Adobe Edge Inspect is a tool that allows you to preview and debug your web applications on multiple devices and platforms. It is particularly useful for responsive design and mobile app development.
+9. Postman: Postman is a tool that allows you to test and debug your web APIs. It features a simple, intuitive interface and supports a wide range of HTTP methods and headers.
+10. Selenium: Selenium is an open-source tool that allows you to automate web browsers and test your web applications. It is particularly useful for functional testing and regression testing.
+
+
+These are just a few examples of the many tools that are available for developing web applications. The best tool for you will depend on your specific needs and preferences, so it is a good idea to try out a few different options to see which one works best for you.
+
+질문2: What is the capital city of Canada?
+소요시간: 20초
+답변:The capital city of Canada is Ottawa. It is located in the province of Ontario, in the eastern part of the country.
+
+질문3: If ice melts into water, does its mass increase, decrease, or stay the same?
+소요시간: 1분 42초
+답변:When ice melts into water, its mass does not change. The mass of the ice remains the same, as the water that is formed by the melting of the ice has the same mass as the ice.
+
+This is because the mass of a substance is a measure of the amount of matter it contains, and the amount of matter in the ice does not change when it melts. The water that is formed by the melting of the ice is simply a different state of the same matter, with the same mass as the original ice.
+
+So, in summary, the mass of the ice does not increase or decrease when it melts into water, it stays the same.
+
+질문4: In the sentence 'She set the table', what does 'set' refer to?
+소요시간: 50초
+답변:In the sentence "She set the table," the verb "set" refers to the act of placing or arranging the items on the table. It is a transitive verb, and the table is the direct object of the verb. The sentence means that she put the items on the table, or she prepared the table for use.
+
+
+
+질문5: How many bones are there in the human body?
+소요시간: 2분 38초
+답변:There are 206 bones in the adult human body. This number can vary slightly from person to person, as some individuals may have extra or missing bones due to various genetic or developmental conditions. The 206 bones in the adult human body include:
+
+
+* 29 bones in the skull
+* 32 bones in the spine
+* 40 bones in the ribcage
+* 52 bones in the upper extremities (shoulders, arms, and hands)
+* 52 bones in the lower extremities (hips, legs, and feet)
+* 26 bones in the pelvis
+
+
+It's worth noting that the number of bones in the human body changes throughout life. At birth, the number of bones is around 300, but as we grow and develop, some of these bones fuse together, resulting in the adult number of 206 bones.
+
+
+
+질문6: Tell me more about the network.
+소요시간: 5분 38초
+답변:Certainly! The network is a critical component of the technology behind the smart contract platform. It is responsible for facilitating the communication and interaction between the different components of the platform, including the smart contracts, the blockchain, and the users.
+
+
+Here are some key aspects of the network:
+
+
+1. Decentralized: The network is decentralized, meaning that it is not controlled by a single entity. Instead, it is a distributed network of nodes, each of which plays a critical role in the functioning of the platform.
+2. Peer-to-peer: The network is designed to be peer-to-peer, meaning that any user can interact with any other user directly, without the need for intermediaries. This helps to ensure that the platform is open and accessible to all users.
+3. Consensus algorithm: The network uses a consensus algorithm to ensure that all nodes agree on the state of the platform. This ensures that the platform is secure and that all transactions are valid.
+4. Incentivization: The network uses incentives to encourage nodes to participate in the network and to validate transactions. These incentives can take the form of cryptocurrency rewards or other forms of compensation.
+5. Scalability: The network is designed to be highly scalable, allowing it to support a large number of users and transactions. This is achieved through the use of advanced technologies such as sharding and off-chain transactions.
+6. Security: The network is designed to be highly secure, with robust encryption and other security measures in place to protect against fraud and other malicious activities.
+7. Interoperability: The network is designed to be interoperable with other blockchain networks and traditional payment systems, allowing users to easily interact with other platforms and systems.
+
+Overall, the network is a critical component of the smart contract platform, providing the infrastructure and rules that govern the interaction between users and the platform. It is designed to be decentralized, secure, scalable, and interoperable, allowing it to support a wide range of applications and use cases.
+
+Petals 사용
+GPU 사용량: 2324MB
+질문1: Please recommend developing tool for developing web.
+소요시간: 2분 30초
+답변:I would recommend using a framework like React or Vue.js for developing web applications. These frameworks provide a lot of features and tools to make the development process easier and more efficeint. Additionally, consider using a code editor like Visual Studio Code or Sublime Text, as they offer various plugins and extensions to enhance your development experience.
+
+질문2: What is the capital city of Canada?
+소요시간: 1분 6초
+답변: The capital city of Canada is Ottawa.
+
+질문3: If ice melts into water, does its mass increase, decrease, or stay the same?
+소요시간: 2분 36초
+답변: If ice melts into water, its mass stays the same. This is because the mass is a measure of the amount of matter in a substance, and the matter remains the same even though the physical state changes from solid (ice) to liquid (water)
+
+질문4: In the sentence 'She set the table', what does 'set' refer to?
+소요시간: 3분 32초
+답변: In the sentence 'She set the table', the word 'set' refers to the action of arranging or placing items, such as plates, glasses, and utensils, on the table in preparation for a meal.
+
+질문5: How many bones are there in the human body?
+소요시간: 1분 
+답변: There are 206 bones in the human body.
+
+질문6: Tell me more about the network.
+소요시간: 4분 36초
+답변: The network is a complex system of interconnected nodes, or devices, that communicate with each other to share information and resources. It can include various types of devices such as computers, servers, routers, and other electronic devices. The primary purpose of a network is to enable communication and resource sharing among its components. Networks can be classified into different types based on their size, topology, and purpose. Some common types of networks include local area networks (LANs), wide area networks (WANs), and wireless networks. Each type of network has its unique characteristics and applications.
+
+
 reference list
 1.Petals
 https://petals.dev/
