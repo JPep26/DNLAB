@@ -1,0 +1,47 @@
+최종 목표
+Distributed LLaMa PC(x86)/라즈베리파이 통해서 실행 후 해당 기술의 장점 / 개선할 점 찾기
+
+현재 생각하는 장점 & 단점 (0429)
+
+장점
+1) 분산 환경이기때문에, 사용자의 환경에 크게 구애 받지않음
+
+단점
+1) 출력 방식의 문제 (수정 가능성 있으며, 이미 구현되어있을 수 있으니 구성 확인 필요)
+2) 처음에 명령한 steps수를 무조건 다 사용하려고 하여, 대답이 끝난 후에도 지속적으로 다른 이야기를 진행함 (위와 동일하게 확인 필요)
+
+중간 목표(~5/15)
+
+
+주간 목표(04/29~05/03)
+
+
+
+진행 상황
+
+04/29(월)
+- LLaMa 3 설치
+- Distributed-LLaMa with LLaMa 2 / LLaMa 3  실행
+
+질문 Prompt : "Please explain the distributed system."
+
+Distributed- LLaMa 2
+everybody can share the same data, the same resource, and even the same task. It is a good solution for large data or application
+that needs to distribute computing power. A distributed system is a system that consists of many loosely coupled computing machines
+that communicate and coordinate their actions by passing messages to one another. Distributed computing is the idea that a problem
+can be split into many parts, and then the results of each part can be combined to get a solution. //103 token
+
+A distributed system is a collection of independent computers that appear to work together as a single system. 
+Distributed computing is the idea
+
+1 token 당 평균 응답 소요시간 447.05 ms , 총합 57,222ms로 약 57초 소요되었다.
+추가적으로, 반복을 제외하면 103 token 사용하였으므로 약 46초 소요되었다.
+
+Distributed-LLaMa 3 
+(1). Distributed system is a collection of networked computers (i.e. hosts) that coordinate their activities to solve a problem. 
+A distributed system is a network of autonomous computers linked by communication channels that enable the computers to coordinate
+their activities and to share their resources so that they can function as a coordinated whole. //71 token
+(이후 반복)
+1 token 당 평균 응답 소요시간 387.55 ms , 총합 49,606 ms 로 약 50초 소요되었다.
+추가적으로, 반복을 제외하면 71 token 사용하였으므로 약 27.5초 소요되었다. 
+
