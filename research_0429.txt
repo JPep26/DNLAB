@@ -47,3 +47,13 @@ their activities and to share their resources so that they can function as a coo
 
 LLaMa2의 답변과 LLaMa 3의 답변이 모두 정확도 측면에서 좋은 내용을 보여주였으며, 틀린 내용을 기재하지않았다.
 코딩과 관련된, 더 틀리기 쉬운 내용들을 물어보아 성능 비교 추가로 진행할 예정이다.
+
+04/30 (화)
+- 자원 사용량 분석
+- 
+
+"How can performance be optimized in Java multithreading programs? Specifically, explain how to prevent race conditions and deadlocks during parallel processing."
+
+자원 사용량
+LLaMa2 7B 사용(384토큰) : 4335184kb(4.3GB)의 램 사용.
+LLaMa3 8B 사용(384토큰) : 6285436kb(6.3GB)의 램 사용.
