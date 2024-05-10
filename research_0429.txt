@@ -176,3 +176,6 @@ steps의 경우에도 기존의 128~512에서 8~32배 증가한 4096까지 확�
 - Survey Paper 작성 과제를 위한 연구 주제 고민
  전반적인 LLM에 대한 내용 / Distributed LLaMa에 대한 내용 둘 중 고민 중
 10개 이상의 Reference가 필요하여 Distributed LLaMa 관련 참고할만한 10개이상의 Reference 확인하기 위해 Petal/ Distributed LLaMa 논문 확인후 reference 확인중. 
+
+05/10(금)
+- Survey Paper Distributed LLaMa 로 작성하기 위해 관련 내용 조사 및 논문 확인
