@@ -182,3 +182,12 @@ steps의 경우에도 기존의 128~512에서 8~32배 증가한 4096까지 확�
 
 05/13 (월)
 Distributed -LLaMa Abstract및 제목 작성중
+
+05/14 (화)
+Abstract 작성 진행 중
+05/16 (목)
+Abstract 작성 완료
+05/17 (금)
+Introduction 작성 진행중
+05/20 (월)
+Introduction 작성 완료 및 문장 다듬기 진행중
