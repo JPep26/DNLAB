@@ -145,4 +145,6 @@ typer 버전 수정하니, Flask 버전 에러 발생. 해당 에러 수정.
 
 8/20(화)
 googletrans와 spleeter간의 버전충돌-> googletrans 최신업데이트 진행
+Spleeter 코드 위치 수정 -> 기본 패키지로 설치후 정상진행
+VisualRadio/VisualRadio 폴더내 Dockerfile 정상적으로 Build 완료
 
